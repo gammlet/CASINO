@@ -1,0 +1,17 @@
+# Build output
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+casino
+test_hands
+
+# Save file created when playing
+data/save.txt
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.swp
+.DS_Store
